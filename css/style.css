@@ -1,0 +1,25 @@
+body {
+  background: rgb(215, 116, 128);
+  background: linear-gradient(
+    52deg,
+    rgba(215, 116, 128, 1) 0%,
+    rgba(92, 79, 145, 1) 100%
+  );
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.principal {
+  background-color: white;
+}
+
+.navegacion {
+  background-color: #f6f6f6;
+}
+
+.footer {
+  color: #ffffff;
+}
+
+.fa {
+  color: #ffffff;
+}
